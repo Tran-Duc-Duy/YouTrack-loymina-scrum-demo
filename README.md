@@ -4,3 +4,4 @@ LOYMINA-23 Разработка API
 API auth   
 API catalogs   
 API products   
+API brands   
